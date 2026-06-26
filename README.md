@@ -32,7 +32,6 @@ The sample uses the Blazor ComboBox component in a Blazor interactive server-ren
 ```bash
 git clone https://github.com/SyncfusionExamples/group-and-filter-blazor-combobox-items.git
 cd group-and-filter-blazor-combobox-items
-cd GroupAndFilterItems
 ```
 
 ### Run with Visual Studio
